@@ -97,3 +97,6 @@ pylint.report
 # Ignore requirements.txt for package management
 requirements.txt
 
+# Data files
+data/
+data/*
